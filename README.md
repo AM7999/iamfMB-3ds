@@ -18,3 +18,24 @@ things you need
 
 *im not 100% sure it would work in an emu*
 
+# Compiling
+
+**Step 1**
+
+install devkitpro: https://devkitpro.org/wiki/devkitPro_pacman
+
+open up your linux terminal and depending on your OS you may need to install zip, make, and possibly cmake idfk
+
+after you do that cd to the directory with the makefile
+
+**Step 2**
+
+type in make 3ds to make a .3dsx
+
+**Step 3**
+
+copy it to your SD card
+
+**Step 4** 
+
+enjoy somehow
